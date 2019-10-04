@@ -13,7 +13,7 @@ Latproject Module
 Custom module for Latproject Account
     """,
     'author': "Ahorasoft",
-    'version': '1.0.0',
+    'version': '1.0.1',
     'website': "http://www.ahorasoft.com",
     'category': 'Uncategorized',
     'depends': ['base','l10n_cl_fe'],

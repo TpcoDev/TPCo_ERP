@@ -9,7 +9,7 @@
 
       <xpath expr="//field[@name='active']" position="after">
         <field name="documentos" readonly="1"
-          context="{'form_view_ref': 'as_latproject_lafavorita.as_view_invoice_form_log_cola'}" />
+          context="{'form_view_ref': 'as_latproject_account.as_view_invoice_form_log_cola'}" />
       </xpath>
 
     </field>
